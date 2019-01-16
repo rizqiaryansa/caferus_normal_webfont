@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CaferusNormal';
+    src: url('fonts/Caferus-Normal.eot');
+    src: url('fonts/Caferus-Normal.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Caferus-Normal.woff2') format('woff2'),
+         url('fonts/Caferus-Normal.woff') format('woff'),
+         url('fonts/Caferus-Normal.ttf')  format('truetype'),
+         url('fonts/Caferus-Normal.svg#CaferusNormal') format('svg');
+}
